@@ -1,6 +1,6 @@
-<!-- Introduction Section -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&vCenter=true&random=false&width=435&lines=Rakshith+Raj+Gangi;రక్షిత్+రాజ్+గంగి)](https://git.io/typing-svg)
+<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Rakshith Raj G</h1>
 
+<br/>
 
  I'm a passionate <strong>web developer</strong> and <strong>machine learning</strong> enthusiast. 
 <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
