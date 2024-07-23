@@ -33,60 +33,83 @@
 
 ### Front-End Development
 <p>
-  [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
-  [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)](https://redux.js.org/)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
-  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)](https://tailwindcss.com/)
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" alt="Redux">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff" alt="Tailwind CSS">
 </p>
 
 ### Back-End Development
 <p>
-  [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
-  [![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)](https://expressjs.com/)
-  [![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-3F8F6C)](https://restfulapi.net/)
-  [![Authentication](https://img.shields.io/badge/-Authentication-FF6B6B)](https://auth0.com/)
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff" alt="Express.js">
+  <img src="https://img.shields.io/badge/-RESTful_APIs-3F8F6C" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/-Authentication-FF6B6B" alt="Authentication">
 </p>
 
 ### Database Management
 <p>
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
 </p>
 
 ### Tools & Technologies
 <p>
-  [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
-  [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
-  [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://www.heroku.com/)
-  [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)](https://www.postman.com/)
-  [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)](https://jestjs.io/)
-  [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000)](https://webpack.js.org/)
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](https://www.tensorflow.org/)
-  [![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)](https://scikit-learn.org/)
-  [![NumPy](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)](https://numpy.org/)
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff" alt="Heroku">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
+  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff" alt="Jest">
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000" alt="Webpack">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff" alt="NumPy">
 </p>
 
 ### Machine Learning
 #### 📚 Algorithms:
 <p>
-  [![Linear Regression](https://img.shields.io/badge/-Linear_Regression-1F77B4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Linear Regression">
-  [![Logistic Regression](https://img.shields.io/badge/-Logistic_Regression-FF7F0E?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Logistic Regression">
-  [![Neural Networks](https://img.shields.io/badge/-Neural_Networks-2CA02C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Neural Networks">
+  <img src="https://img.shields.io/badge/-Linear_Regression-1F77B4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Linear Regression">
+  <img src="https://img.shields.io/badge/-Logistic_Regression-FF7F0E?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Logistic Regression">
+  <img src="https://img.shields.io/badge/-Neural_Networks-2CA02C?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Neural Networks">
 </p>
 
 #### 🛠️ Methods and Techniques:
 <p>
-  [![Tree Ensembles](https://img.shields.io/badge/-Tree_Ensembles-17BECF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Tree Ensembles">
-  [![Gradient Descent](https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Gradient Descent">
+  <img src="https://img.shields.io/badge/-Tree_Ensembles-17BECF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Tree Ensembles">
+  <img src="https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Gradient Descent">
 </p>
 
 #### 📚 Libraries and Frameworks:
 <p>
-  [![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)](https://scikit-learn.org/)
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](https://www.tensorflow.org/)
-  [![NumPy](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)](https://numpy.org/)
+  <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff" alt="NumPy">
+</p>
+
+## 🧑‍💻 Coding Profiles
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/yourusername">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith-Raj08&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakshith-Raj08&theme=onedark" alt="GitHub Trophies">
 </p>
