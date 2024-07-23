@@ -1,14 +1,11 @@
-# My GitHub Stats and Trophies
+# Hello! I'm Rakshith Raj Gangi 👋
 
-## 📊 GitHub Stats
+Welcome to my GitHub profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith-Raj08&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rakshith-Raj08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📬 Connect with me
+- [Instagram](https://www.instagram.com/yourusername)  <!-- Replace with your actual Instagram URL -->
+- [LinkedIn](https://www.linkedin.com/in/yourusername)  <!-- Replace with your actual LinkedIn URL -->
+- [Gmail](mailto:your.email@example.com)  <!-- Replace with your actual email address -->
 
 ## 💼 Skills
 
@@ -53,3 +50,17 @@
 #### 🛠️ Methods and Techniques:
 ![Tree Ensembles](https://img.shields.io/badge/-Tree_Ensembles-17BECF?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K)
 ![Gradient Descent](https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K)
+
+## 🧑‍💻 Coding Profiles
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/yourusername)  <!-- Replace with your actual GeeksforGeeks URL -->
+- [LeetCode](https://leetcode.com/yourusername)  <!-- Replace with your actual LeetCode URL -->
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith-Raj08&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rakshith-Raj08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
