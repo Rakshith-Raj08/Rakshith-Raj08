@@ -1,8 +1,8 @@
-<h1 align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=44&duration=2500&pause=750&vCenter=true&width=600&height=70&color=FFFFFF&lines=Hello+%F0%9F%91%8B+I'm+Rakshith+Raj+G;నమస్కారం+%F0%9F%91%8B+నేను+రక్షిత్+రాజ్" alt="Typing SVG">
   </a>
-</h1>
+</h3>
 
 
 <br/>
