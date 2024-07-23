@@ -5,9 +5,9 @@
 </h1>
 
 
-<p>
-  I'm a passionate <strong>web developer</strong> and <strong>machine learning enthusiast</strong>. 
-</p>
+![Animated Text](https://media.giphy.com/media/your-gif-url.gif)
+
+I'm a passionate web developer and machine learning enthusiast.
 
 <br>
 
