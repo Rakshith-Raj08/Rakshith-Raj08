@@ -16,6 +16,8 @@
   Let's connect and build something amazing together! Here’s a bit about what I do and where you can find me online:
 </p>
 
+<br>
+
 ## 📬 Connect with me
 <p>
   <a href="https://www.instagram.com/yourusername">
@@ -104,6 +106,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
   </a>
 </p>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -111,6 +114,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith-Raj08&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+<br>
 
 ## 🏆 GitHub Trophies
 
