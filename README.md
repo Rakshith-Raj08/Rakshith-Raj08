@@ -39,12 +39,18 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)
+![Xgboost](https://img.shields.io/badge/-Xgboost-FF8C00?logo=xgboost&logoColor=fff)
+![NumPy](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)
 
 ### Machine Learning
-![Linear Regression](https://img.shields.io/badge/-Linear_Regression-4CAF50)
-![Logistic Regression](https://img.shields.io/badge/-Logistic_Regression-FF9800)
-![Neural Networks](https://img.shields.io/badge/-Neural_Networks-9C27B0)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
+- **Algorithms:**
+  - Linear Regression
+  - Logistic Regression
+  - Neural Networks
+- **Methods and Techniques:**
+  - Tree Ensembles (e.g., Random Forest, Xgboost)
+  - Gradient Descent
 
 
