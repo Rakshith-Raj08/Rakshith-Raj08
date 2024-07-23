@@ -29,6 +29,8 @@
   </a>
 </p>
 
+<br>
+
 ## 💼 Skills
 
 ### Front-End Development
@@ -90,6 +92,8 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="TensorFlow">
   <img src="https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff" alt="NumPy">
 </p>
+
+<br>
 
 ## 🧑‍💻 Coding Profiles
 <p>
