@@ -1,8 +1,9 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=2500&pause=750&vCenter=true&width=500&height=50&color=FFFFFF&lines=Hello+%F0%9F%91%8B+I'm+Rakshith+Raj;నమస్కారం+%F0%9F%91%8B+నేను+రక్షిత్+రాజ్" alt="Typing SVG">
+<h1 style="text-align: center; font-size: 20px; color: white;">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=24&duration=2500&pause=750&vCenter=true&width=400&height=40&color=FFFFFF&lines=Hello+%F0%9F%91%8B+I'm+Rakshith+Raj;నమస్కారం+%F0%9F%91%8B+నేను+రక్షిత్+రాజ్" alt="Typing SVG" style="vertical-align: middle;">
   </a>
 </h1>
+
 
 
  I'm a passionate <strong>web developer</strong> and <strong>machine learning</strong> enthusiast. 
