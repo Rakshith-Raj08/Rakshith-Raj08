@@ -90,10 +90,10 @@
 
 ## 🧑‍💻 Coding Profiles
 <p>
-  <a href="https://www.geeksforgeeks.org/user/yourusername">
+  <a href="[https://www.geeksforgeeks.org/user/yourusername](https://auth.geeksforgeeks.org/user/rakshith2002raj/)">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
   </a>
-  <a href="https://leetcode.com/yourusername">
+  <a href="[https://leetcode.com/yourusername](https://leetcode.com/u/RakshithRajG/)">
     <img src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
   </a>
 </p>
