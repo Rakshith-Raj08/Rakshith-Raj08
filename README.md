@@ -4,16 +4,8 @@
   I'm Rakshith Raj Gangi
 </h1>
 
-
-
-   
- 
-
- I'm a passionate web developer and machine learning enthusiast. 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
-
-
+ I'm a passionate web developer and machine learning enthusiast. 
+<img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
 
 <br>
 
