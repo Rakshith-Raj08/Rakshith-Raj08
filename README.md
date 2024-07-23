@@ -52,8 +52,8 @@ Welcome to my GitHub profile!
 ![Gradient Descent](https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K)
 
 ## 🧑‍💻 Coding Profiles
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff)](https://www.geeksforgeeks.org/user/yourusername)  <!-- Replace with your actual GeeksforGeeks URL -->
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff)](https://leetcode.com/yourusername)  <!-- Replace with your actual LeetCode URL -->
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff)](https://www.geeksforgeeks.org/user/yourusername)  <!-- Replace with your actual GeeksforGeeks URL -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff)](https://leetcode.com/yourusername)  <!-- Replace with your actual LeetCode URL -->
 
 ## 📊 GitHub Stats
 
