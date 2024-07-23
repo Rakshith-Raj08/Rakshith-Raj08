@@ -11,13 +11,13 @@
 
 ## 📬 Connect with me
 <p>
-  <a href="https://www.instagram.com/yourusername">
+  <a href="https://www.instagram.com/rakshith__raj/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/rakshith-raj-b38936220/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rakshith2002raj@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail">
   </a>
 </p>
@@ -90,10 +90,10 @@
 
 ## 🧑‍💻 Coding Profiles
 <p>
-  <a href="[https://www.geeksforgeeks.org/user/yourusername](https://auth.geeksforgeeks.org/user/rakshith2002raj/)">
+  <a href="https://www.geeksforgeeks.org/user/rakshith2002raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
   </a>
-  <a href="[https://leetcode.com/yourusername](https://leetcode.com/u/RakshithRajG/)">
+  <a href="https://leetcode.com/u/RakshithRajG/">
     <img src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
   </a>
 </p>
