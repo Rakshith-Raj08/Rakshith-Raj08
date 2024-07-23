@@ -1,4 +1,4 @@
-# Hello! I'm Rakshith Raj Gangi 👋
+<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>
 
 Welcome to my GitHub profile!
 
