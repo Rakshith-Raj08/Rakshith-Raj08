@@ -1,16 +1,11 @@
-<!-- Introduction Section -->
 # Hello! I'm Rakshith Raj Gangi 👋
 
-Welcome to my GitHub profile! 🌟
-
-I'm a passionate **web developer** and **machine learning enthusiast**. Whether it's crafting elegant web applications or delving into AI, I'm always eager to tackle new challenges and grow my skills. 🚀
-
-Let's connect and build something amazing together! Here’s a bit about what I do and where you can find me online:
+Welcome to my GitHub profile!
 
 ## 📬 Connect with me
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/yourusername)  <!-- Replace with your actual Instagram URL -->
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourusername)  <!-- Replace with your actual LinkedIn URL -->
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:your.email@example.com)  <!-- Replace with your actual email address -->
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/yourusername)  <!-- Replace with your actual Instagram URL -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourusername)  <!-- Replace with your actual LinkedIn URL -->
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:your.email@example.com)  <!-- Replace with your actual email address -->
 
 ## 💼 Skills
 
@@ -43,6 +38,7 @@ Let's connect and build something amazing together! Here’s a bit about what I 
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)
+![Xgboost](https://img.shields.io/badge/-Xgboost-FF8C00?logo=xgboost&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)
 
 ### Machine Learning
@@ -56,8 +52,8 @@ Let's connect and build something amazing together! Here’s a bit about what I 
 ![Gradient Descent](https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K)
 
 ## 🧑‍💻 Coding Profiles
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff)](https://www.geeksforgeeks.org/user/yourusername)  <!-- Replace with your actual GeeksforGeeks URL -->
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff)](https://leetcode.com/yourusername)  <!-- Replace with your actual LeetCode URL -->
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff)](https://www.geeksforgeeks.org/user/yourusername)  <!-- Replace with your actual GeeksforGeeks URL -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff)](https://leetcode.com/yourusername)  <!-- Replace with your actual LeetCode URL -->
 
 ## 📊 GitHub Stats
 
@@ -67,4 +63,4 @@ Let's connect and build something amazing together! Here’s a bit about what I 
 
 ## 🏆 GitHub Trophies
 
-[![
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rakshith-Raj08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
