@@ -4,16 +4,9 @@
   I'm Rakshith Raj Gangi
 </h1>
 
-<p>
-  Welcome to my GitHub profile! 🌟
-</p>
 
 <p>
-  I'm a passionate <strong>web developer</strong> and <strong>machine learning enthusiast</strong>. Whether it's crafting elegant web applications or delving into AI, I'm always eager to tackle new challenges and grow my skills. 🚀
-</p>
-
-<p>
-  Let's connect and build something amazing together! Here’s a bit about what I do and where you can find me online:
+  I'm a passionate <strong>web developer</strong> and <strong>machine learning enthusiast</strong>. 
 </p>
 
 <br>
