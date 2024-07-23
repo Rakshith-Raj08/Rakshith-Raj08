@@ -5,27 +5,14 @@
 </h1>
 
 
-<!-- Introduction Section -->
-<h1 style="text-align: center;">
-  <span style="display: inline-block; animation: bounce 2s infinite;">
-    I'm a passionate web developer and machine learning enthusiast. 🚀
-  </span>
-</h1>
 
-<!-- CSS for animation -->
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-</style>
+   
+ 
+
+ I'm a passionate web developer and machine learning enthusiast. 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  
+  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
+
 
 
 <br>
