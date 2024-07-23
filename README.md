@@ -5,9 +5,28 @@
 </h1>
 
 
-![Animated Text](https://media.giphy.com/media/your-gif-url.gif)
+<!-- Introduction Section -->
+<h1 style="text-align: center;">
+  <span style="display: inline-block; animation: bounce 2s infinite;">
+    I'm a passionate web developer and machine learning enthusiast. 🚀
+  </span>
+</h1>
 
-I'm a passionate web developer and machine learning enthusiast.
+<!-- CSS for animation -->
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+</style>
+
 
 <br>
 
