@@ -110,7 +110,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshith-Raj08&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshith-Raj08&theme=radical" alt="GitHub Streak Stats">
