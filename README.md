@@ -24,6 +24,8 @@
 
 <br>
 
+## ![snake gif](https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/86b06c62c4957d614848c28d956db4dc80c131ca/github-snake-dark.svg)
+
 ## 💼 Skills
 
 ### Front-End Development
@@ -116,4 +118,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rakshith-Raj08&theme=onedark" alt="GitHub Trophies">
 </p>
 
-![snake gif](https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/86b06c62c4957d614848c28d956db4dc80c131ca/github-snake-dark.svg)
+
