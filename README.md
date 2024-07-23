@@ -9,7 +9,6 @@
  I'm a passionate <strong>web developer</strong> and <strong>machine learning</strong> enthusiast. 
 <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" style="height:80px">
 
-<br>
 
 ## 📬 Connect with me
 <p>
