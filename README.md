@@ -4,20 +4,20 @@
   I'm Rakshith Raj Gangi
 </h1>
 
-<p align="center">
+<p>
   Welcome to my GitHub profile! 🌟
 </p>
 
-<p align="center">
+<p>
   I'm a passionate <strong>web developer</strong> and <strong>machine learning enthusiast</strong>. Whether it's crafting elegant web applications or delving into AI, I'm always eager to tackle new challenges and grow my skills. 🚀
 </p>
 
-<p align="center">
+<p>
   Let's connect and build something amazing together! Here’s a bit about what I do and where you can find me online:
 </p>
 
 ## 📬 Connect with me
-<p align="center">
+<p>
   <a href="https://www.instagram.com/yourusername">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff" alt="Instagram">
   </a>
@@ -92,7 +92,7 @@
 </p>
 
 ## 🧑‍💻 Coding Profiles
-<p align="center">
+<p>
   <a href="https://www.geeksforgeeks.org/user/yourusername">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
   </a>
