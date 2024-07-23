@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!
 
 ## 📬 Connect with me
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/yourusername)  <!-- Replace with your actual Instagram URL -->
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourusername)  <!-- Replace with your actual LinkedIn URL -->
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:your.email@example.com)  <!-- Replace with your actual email address -->
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/yourusername)  <!-- Replace with your actual Instagram URL -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourusername)  <!-- Replace with your actual LinkedIn URL -->
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:your.email@example.com)  <!-- Replace with your actual email address -->
 
 ## 💼 Skills
 
