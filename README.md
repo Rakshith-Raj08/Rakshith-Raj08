@@ -25,3 +25,4 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rakshith-Raj08&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
