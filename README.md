@@ -22,14 +22,7 @@
   </a>
 </p>
 
-<br>
-
-## 
-
-<p >
 ![snake gif](https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/86b06c62c4957d614848c28d956db4dc80c131ca/github-snake-dark.svg)
-</p>
-
 
 
 ## 💼 Skills
