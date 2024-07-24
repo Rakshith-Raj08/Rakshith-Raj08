@@ -150,15 +150,25 @@
 
 
 ## 🧑‍💻 Coding Profiles
-<p>
-  <a href="https://www.geeksforgeeks.org/user/rakshith2002raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
-  </a>
-  <a href="https://leetcode.com/u/RakshithRajG/">
-    <img src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
-  </a>
-</p>
-<br>
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="120px" align="center">
+                <span><strong>GeeksforGeeks</strong></span><br>
+                <a href="https://www.geeksforgeeks.org/user/rakshith2002raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
+                    <img height="32px" src="https://img.shields.io/badge/GeeksforGeeks-1F8AC4?logo=geeksforgeeks&logoColor=fff" alt="GeeksforGeeks">
+                </a>
+            </td>
+            <td width="120px" align="center">
+                <span><strong>LeetCode</strong></span><br>
+                <a href="https://leetcode.com/u/RakshithRajG/">
+                    <img height="32px" src="https://img.shields.io/badge/LeetCode-FA6F00?logo=leetcode&logoColor=fff" alt="LeetCode">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 📊 GitHub Stats
 
