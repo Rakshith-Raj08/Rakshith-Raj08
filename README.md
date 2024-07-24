@@ -11,17 +11,28 @@
 
 
 ## 📬 Connect with me
-<p>
-  <a href="https://www.instagram.com/rakshith__raj/" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff" alt="Instagram" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rakshith-raj-b38936220/" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn" style="margin-right: 10px;"/>
-  </a>
-  <a href="mailto:rakshith2002raj@gmail.com" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail" style="margin-right: 10px;"/>
-  </a>
-</p>
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <a href="https://www.instagram.com/rakshith__raj/" style="text-decoration: none;">
+                    <img height="32px" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff" alt="Instagram">
+                </a>
+            </td>
+            <td width="80px" align="center">
+                <a href="https://www.linkedin.com/in/rakshith-raj-b38936220/" style="text-decoration: none;">
+                    <img height="32px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn">
+                </a>
+            </td>
+            <td width="80px" align="center">
+                <a href="mailto:rakshith2002raj@gmail.com" style="text-decoration: none;">
+                    <img height="32px" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" alt="Gmail">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
