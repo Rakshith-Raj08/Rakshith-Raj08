@@ -33,7 +33,114 @@
 
 ## 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,postgresql,mysql,git,docker,heroku,postman,jest,webpack,python,tensorflow,scikit)](https://skillicons.dev)
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>HTML</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            </td>
+            <td width="80px" align="center">
+                <span><strong>CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>JavaScript</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>React</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Redux</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Bootstrap</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Tailwind CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Node.js</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Express.js</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>MongoDB</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>PostgreSQL</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>MySQL</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Git</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Heroku</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Postman</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Jest</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Webpack</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>Python</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>TensorFlow</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>scikit-learn</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>NumPy</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Java</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Jupyter</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <br>
