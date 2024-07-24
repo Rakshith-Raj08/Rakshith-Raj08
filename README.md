@@ -90,6 +90,25 @@
 
 <br>
 
+## 💼 Skills
+
+### Front-End Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind)](https://skillicons.dev)
+
+### Back-End Development
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+### Database Management
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
+
+### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,postman,jest,webpack)](https://skillicons.dev)
+
+### Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,scikit,python)](https://skillicons.dev)
+
+
+
 ## 🧑‍💻 Coding Profiles
 <p>
   <a href="https://www.geeksforgeeks.org/user/rakshith2002raj/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">
