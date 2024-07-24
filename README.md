@@ -98,9 +98,13 @@
 
 ### Tools & Technologies
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,docker,heroku,postman,jest,webpack)](https://skillicons.dev)
+[![Tools & Technologies](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](https://www.tensorflow.org/)
+[![Tools & Technologies](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)](https://scikit-learn.org/)
+[![Tools & Technologies](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)](https://numpy.org/)
 
 ### Machine Learning
 [![Machine Learning Skills](https://skillicons.dev/icons?i=python,tensorflow,scikit)](https://skillicons.dev)
+
 
 
 
