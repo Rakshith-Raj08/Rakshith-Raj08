@@ -87,23 +87,7 @@
 
 ## 💼 Skills
 
-### Front-End Development
-[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind)](https://skillicons.dev)
-
-### Back-End Development
-[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-### Database Management
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-
-### Tools & Technologies
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,docker,heroku,postman,jest,webpack)](https://skillicons.dev)
-[![Tools & Technologies](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff)](https://www.tensorflow.org/)
-[![Tools & Technologies](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff)](https://scikit-learn.org/)
-[![Tools & Technologies](https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff)](https://numpy.org/)
-
-### Machine Learning
-[![Machine Learning Skills](https://skillicons.dev/icons?i=python,tensorflow,scikit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,nodejs,express,mongodb,postgresql,mysql,git,docker,heroku,postman,jest,webpack,python,tensorflow,scikit)](https://skillicons.dev)
 
 
 
