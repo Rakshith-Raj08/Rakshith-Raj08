@@ -33,7 +33,7 @@
 
 ## 💼 Skills
 
-<table width="100%">
+<table width="100%" style="font-size: 12px;">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
