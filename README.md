@@ -23,6 +23,13 @@
   </a>
 </p>
 
+## 📬 Connect with me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/rakshith__raj/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rakshith-raj-b38936220/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:rakshith2002raj@gmail.com)
+
+
 ![snake gif](https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/86b06c62c4957d614848c28d956db4dc80c131ca/github-snake-dark.svg)
 
 
@@ -81,32 +88,8 @@
   <img src="https://img.shields.io/badge/-Gradient_Descent-FF6347?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8Y2lyY2xlIHJ4PSIxMCIgcj0iMTAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDogIzAwMEI4OyIvPgo8L3N2Zz4K" alt="Gradient Descent">
 </p>
 
-#### 📚 Libraries and Frameworks:
-<p>
-  <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-NumPy-01395C?logo=numpy&logoColor=fff" alt="NumPy">
-</p>
 
 <br>
-
-## 💼 Skills
-
-### Front-End Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind)](https://skillicons.dev)
-
-### Back-End Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-### Database Management
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-
-### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,postman,jest,webpack)](https://skillicons.dev)
-
-### Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,scikit,python)](https://skillicons.dev)
-
 
 
 ## 🧑‍💻 Coding Profiles
